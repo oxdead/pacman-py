@@ -9,7 +9,7 @@ import gcore.game
 
 def Main():
 
-    g.window = pygame.display.set_mode((g.WND_W, g.WND_H), vsync=1)
+    g.window = pygame.display.set_mode((g.WND_W, g.WND_H), vsync=0)
     pygame.display.set_caption("Pac-Man")
 
     pygame.font.init()
