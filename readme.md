@@ -1,5 +1,5 @@
 ## pacman-py
-this is simply a LucaFeggi's PacMan_SDL proted to python for educational purpose.  
+this is simply the LucaFeggi's PacMan_SDL game ported to a python for educational purpose.  
 source: https://github.com/LucaFeggi/PacMan_SDL  
 was written using python 3.11.5  
 
