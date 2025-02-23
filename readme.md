@@ -1,3 +1,3 @@
-running it:
-pip3 install pygame
-python3 main.py
+# run:  
+`python3 -m pip install pygame;`  
+`python3 main.py;`  
